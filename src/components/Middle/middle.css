@@ -1,0 +1,11 @@
+img{
+    margin-top: 50px;
+    width: 600px;
+    height: auto;
+    border-radius: 15px;
+}
+
+p{
+    padding: 1rem;
+    width: 650px;
+}
