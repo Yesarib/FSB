@@ -6,6 +6,8 @@ const Home = () => {
   return (
     <div>
       <Middle />
+      <br />
+      <hr />
       <Bottom />
     </div>
   )
