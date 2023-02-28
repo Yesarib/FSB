@@ -6,9 +6,8 @@ const Home = () => {
   return (
     <div>
       <Middle />
-      <br />
-      
-      <hr />
+      <br />      
+      <hr style={{marginTop:'70px'}}/>
       <Bottom />
     </div>
   )
