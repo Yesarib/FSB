@@ -11,17 +11,16 @@ const Bottom = () => {
         <Card.Body>
             <Card.Title>İnsaat 1</Card.Title>
             <Card.Text>
-            Some quick example text to
+            Yapılan İş 1
             </Card.Text>
         </Card.Body>
         <ListGroup className="list-group-flush">
-            <ListGroup.Item>First</ListGroup.Item>
+            <ListGroup.Item>Açıklama 1</ListGroup.Item>
             <ListGroup.Item>Dapibus ac facilisis in</ListGroup.Item>
-            <ListGroup.Item>Vestibulum at eros</ListGroup.Item>
+            <ListGroup.Item>Adres 1</ListGroup.Item>
         </ListGroup>
         <Card.Body>
-            <Card.Link href="#">Card Link</Card.Link>
-            <Card.Link href="#">Another Link</Card.Link>
+            <Card.Link  href="#">Detaylar için</Card.Link>
         </Card.Body>
         </Card>
     </div>
@@ -29,19 +28,18 @@ const Bottom = () => {
         <Card style={{ width: '18rem' }}>
         <Card.Img variant="top" src="assets/kaba-insaat.jpg" />
         <Card.Body>
-            <Card.Title>Card Title</Card.Title>
+            <Card.Title>İnsaat 2</Card.Title>
             <Card.Text>
-            Some quick example text to
+            Yapılan İş 2 
             </Card.Text>
         </Card.Body>
         <ListGroup className="list-group-flush">
-            <ListGroup.Item>Second</ListGroup.Item>
+            <ListGroup.Item>Açıklama 2</ListGroup.Item>
             <ListGroup.Item>Dapibus ac facilisis in</ListGroup.Item>
-            <ListGroup.Item>Vestibulum at eros</ListGroup.Item>
+            <ListGroup.Item>Adress 2</ListGroup.Item>
         </ListGroup>
         <Card.Body>
-            <Card.Link href="#">Card Link</Card.Link>
-            <Card.Link href="#">Another Link</Card.Link>
+            <Card.Link href="#">Detaylar için</Card.Link>
         </Card.Body>
         </Card>
     </div>
@@ -49,19 +47,18 @@ const Bottom = () => {
         <Card style={{ width: '18rem' }}>
         <Card.Img variant="top" src="assets/kaba-insaat.jpg" />
         <Card.Body>
-            <Card.Title>Card Title</Card.Title>
+            <Card.Title>İnsaat 3</Card.Title>
             <Card.Text>
-            Some quick example text to
+            Yapılan İş 3
             </Card.Text>
         </Card.Body>
         <ListGroup className="list-group-flush">
-            <ListGroup.Item>Third</ListGroup.Item>
+            <ListGroup.Item>Açıklama 3</ListGroup.Item>
             <ListGroup.Item>Dapibus ac facilisis in</ListGroup.Item>
-            <ListGroup.Item>Vestibulum at eros</ListGroup.Item>
+            <ListGroup.Item>Adress</ListGroup.Item>
         </ListGroup>
         <Card.Body>
-            <Card.Link href="#">Card Link</Card.Link>
-            <Card.Link href="#">Another Link</Card.Link>
+            <Card.Link href="#">Detaylar için</Card.Link>
         </Card.Body>
         </Card>
     </div>

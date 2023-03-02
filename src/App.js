@@ -10,6 +10,7 @@ function App() {
   return (
     <div>
       <Router>
+        <div style={{backgroundColor:'#98AFC7', width:'auto', height:'15px'}} />
         <Topbar />
         <Routes>
           <Route path='/' element={<Home />} />
