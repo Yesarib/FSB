@@ -1,5 +1,4 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import './App.css';
 import Topbar from './components/Topbar/Topbar';
 import Home from './pages/Home/Home'
 import About from './pages/About/About'
@@ -10,7 +9,7 @@ function App() {
   return (
     <div>
       <Router>
-        <div style={{backgroundColor:'#98AFC7', width:'auto', height:'15px'}} />
+        <div style={{backgroundColor:'#6096B4', width:'auto', height:'15px'}} />
         <Topbar />
         <Routes>
           <Route path='/' element={<Home />} />

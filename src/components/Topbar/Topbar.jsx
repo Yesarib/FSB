@@ -6,7 +6,7 @@ import '../style.css'
 const Topbar = () => {
   return (
     <>
-      <Navbar className='shadow' bg="light" variant="light">
+      <Navbar style={{backgroundColor:'#EEEEEE'}} className='shadow' variant="light">
         <Container>
           <Navbar.Brand style={{fontWeight:'400', fontSize:'24px'}} href="/">FSB İnşaat</Navbar.Brand>
           <Nav style={{fontWeight:'400', fontSize:'18px'}} className="d-flex align-items-center justify-content-center">

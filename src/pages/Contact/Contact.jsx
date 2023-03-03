@@ -39,7 +39,7 @@ const Contact = () => {
       </div>
       <hr style={{marginTop:'75px'}} />
       <div style={{ margin: "7rem" }} className="d-grid justify-content-start">
-        <h5>Bizimle iletişime geçmek için </h5>
+        {/* <h5>Bizimle iletişime geçmek için </h5>
         <section class="contact-wrap">
           <form action="" class="contact-form">
             <div class="col-sm-6">
@@ -70,7 +70,7 @@ const Contact = () => {
               <Button style={{borderRadius:'2px', color:'white', width:'150px', borderRadius:'10px', marginTop:'15px', marginLeft:'50px'}} className="btn btn-light btn-outline-dark bg-primary"> Gönder </Button>
             </div>
           </form>
-        </section>
+        </section> */}
       </div>
     </>
   );
