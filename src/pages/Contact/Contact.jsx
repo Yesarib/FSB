@@ -1,8 +1,7 @@
 import React from "react";
-import { Box, Button } from "@mui/material";
+import { Box} from "@mui/material";
 
 const Contact = () => {
-  const address = "St Stephen's Green, Dublin, Ireland";
   const zoom = 16;
 
   const lat = 53.338741;
